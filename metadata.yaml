@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-John-JewittOnly-Survivor-of-the-Crew-of-the-Ship-Boston-During-a-Captivity-__38010
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewitt, John Rodgers
+    birthdate: 1783
+    deathdate: 1821
+    gutenberg_agent_id: '39193'
+    url: http://www.gutenberg.org/2009/agents/39193
+  editor:
+    agent_name: Brown, Robert
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '39543'
+    url: http://www.gutenberg.org/2009/agents/39543
+description: ''
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38010'
+  lccn: '01001306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nootka Sound (B.C.)'
+- !lcsh 'Nootka Indians'
+- !lcsh 'Indian captivities'
+- !lcc 'F1001'
+title: 'The Adventures of John Jewitt
+
+  Only Survivor of the Crew of the Ship Boston During a Captivity of Nearly Three
+  Years Among the Indians of Nootka Sound in Vancouver Island'
+url: http://www.gutenberg.org/ebooks/38010
